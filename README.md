@@ -12,3 +12,7 @@ simulaG3ari2.m, simulaG5ari2.m and simulaG7ari2.m for the second scenario.
 The main functions are t3mixs.m, t2mixt.m and mixhom.m for fitting S3, S3 and H, respectively.
 
 The files shall be run in MatLab.
+
+## License
+
+MIT (see `LICENSE`).
